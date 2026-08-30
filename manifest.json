@@ -1,0 +1,18 @@
+{
+  "name": "Klassieke Muziek Tracker",
+  "short_name": "Klassieke Muziek",
+  "description": "Persoonlijke luister- en leertracker voor klassieke muziek, van Barok tot Hedendaags.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#17130f",
+  "theme_color": "#17130f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang-amadeus-mozart_1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
